@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class HelloController {
-
+//깃 잔디 오류..
 
     @GetMapping("hello")
     public String hello(Model model) {
